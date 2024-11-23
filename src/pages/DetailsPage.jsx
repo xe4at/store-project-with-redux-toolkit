@@ -5,7 +5,6 @@ import { IoMdPricetag } from "react-icons/io";
 import { FaArrowLeft } from "react-icons/fa";
 
 import Loader from "../components/Loader";
-// import { useProductDetails } from "../context/PruductContext";
 import styles from "./DetailsPage.module.css";
 import { useDispatch, useSelector } from "react-redux";
 import { useEffect } from "react";
